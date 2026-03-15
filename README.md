@@ -32,7 +32,7 @@ index=security_logs status=404
 Traffic sources were visualized using Splunk dashboards.
 
 ## Screenshots
-![Top IP Traffic](screenshots/top_ips.png)
-![Top IP Traffic](screenshots/top_ips.png)
-![Top IP Traffic](screenshots/top_ips.png)
-![Top IP Traffic](screenshots/top_ips.png)
+![Top IP Traffic](top_ips.png)
+![Top IP Traffic](log_ingestion.png)
+![Top IP Traffic](http_errors.png)
+![Top IP Traffic](traffic_dashboard.png)
